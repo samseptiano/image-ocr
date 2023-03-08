@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android OCR</string>
+    <string name="temp_images_dir">temp_images</string>
+    <string name="temp_image">temp_image.png</string>
+    <string name="authorities">com.example.fileprovider</string>
+    <string name="label_result">Result</string>
+    <string name="label_image_preview">Image Preview</string>
+    <string name="label_toolbar_subtitle">Click image button to insert image</string>
+    <string name="label_calculator">Calculator</string>
+    <string name="label_text_only">Text Only</string>
+    <string name="label_see_result">See Result</string>
+    <string name="label_about">About App</string>
+    <string name="label_about_desc">This application is sample application of image-to-text reader</string>
+    <string name="label_close">Close</string>
+    <string name="label_error">Error</string>
+    <string name="label_camera">Camera</string>
+    <string name="label_gallery">Gallery</string>
+    <string name="label_select_image">Select Image</string>
+
+    <string name="label_error_select_image">Please select/capture image first before see result.</string>
+
+
+</resources>
